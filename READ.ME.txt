@@ -1,0 +1,6 @@
+File báo cáo pdf Latex: 18520430-18520456-18521630.pdf
+Thư mục Latex Source code:
+ -main.tex
+Thư mục source code:
+ -main.py (Gồm mã nguồn phát sinh Input, Output, 3 thuật toán Knapsack: Knapsack 01 Bottom up, Knapsack 01 trace back, Knapsack 01 space optimized)
+ -File số liệu đã thống kê gồm 3 files: TimeComplexity.xlsx, SpaceComplexity.xlsx, OptimizedSpaceComplexity.xlsx
